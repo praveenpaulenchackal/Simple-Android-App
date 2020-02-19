@@ -15,7 +15,7 @@ buildscript {
 }
 
 ext{
-    support_version = '27.1.1'
+    support_version = '27.0'
     constraint_version = '1.1.2'
     multidex_version = '1.0.3'
     crashlytics_version = '2.9.4'
