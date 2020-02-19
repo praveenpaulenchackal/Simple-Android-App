@@ -5,7 +5,7 @@ apply plugin: 'kotlin-kapt'
 apply plugin: 'io.fabric'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 27.1.1
     defaultConfig {
         applicationId "org.h7.simple"
         minSdkVersion 16
